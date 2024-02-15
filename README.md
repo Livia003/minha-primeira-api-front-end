@@ -15,3 +15,13 @@ O "Mulheres em Tech Brasil" é uma aplicação front-end que complementa o proje
 
 - Visualização dos perfis das mulheres cadastradas na área de tecnologia.
 - Exibição das informações das mulheres em cards ou listagem.
+
+## Registros
+
+![Título](https://i.imgur.com/COoX3oQ.png)
+![Mulheres](https://i.imgur.com/gBchMPI.png)
+![Formulário](https://i.imgur.com/hdVwz8y.png)
+
+[Visualize a Aplicação](https://minha-primeira-api-front-end.vercel.app/)
+
+
